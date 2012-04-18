@@ -1,0 +1,1 @@
+The sencha touch library file `sencha-touch-all.js` goes here.
