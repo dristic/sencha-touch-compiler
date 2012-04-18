@@ -13,3 +13,9 @@ results
 
 node_modules
 npm-debug.log
+
+.project
+.settings
+.settings/*
+
+touch/sencha-touch-all.js
