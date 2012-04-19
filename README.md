@@ -20,6 +20,8 @@ Your minified file will be in /dist/ under the name `{config.output}-{config.ver
 
 ## Misc
 
+The regex patterns need to be improved so if you are getting issues ensure all your define, require, and extends statements are in perfect syntax.
+
 Licensed under the MIT license provided under `LICENSE.txt`. Feel free to make pull requests and issues and I will look at them when I can.
 
 ## To-Do
